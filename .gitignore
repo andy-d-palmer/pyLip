@@ -1,0 +1,3 @@
+*.py~
+/pyLip.egg-info/
+/pyMSpec.egg-info/
